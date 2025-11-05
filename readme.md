@@ -52,7 +52,3 @@ Sample data:
 
 ---
 
-## Future Work
-- Integrate **Kafka** for streaming data ingestion.
-- Automate pipeline with **Apache Airflow** DAGs.
-- Extend storage and analytics to cloud solutions (e.g., GCS, BigQuery, Azure Synapse).
